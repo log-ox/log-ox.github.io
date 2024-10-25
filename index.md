@@ -19,7 +19,7 @@ LoG-OX 2024
 
 
 <p align="center">
-Welcome to the website for <strong>logAMS</strong>, the Oxford meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by University of Oxford on November 25 + 26, 2024.
+Welcome to the website for <strong>LoGoX</strong>, the Oxford meetup for the <a href="https://logconference.org">LoG Conference</a>. Hosted by University of Oxford on Nov 25 + 26, 2024.
 </p>
 
 
@@ -35,10 +35,10 @@ Welcome to the website for <strong>logAMS</strong>, the Oxford meetup for the gl
 
 ## About
 
-The logAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry.
+The logAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry. Please watch this space for updates!
 
 
-### Details
+## Details
 
 * Meet-up on November 25 and 26, 2024.
 * The event is **free** 🤑 to attend.
@@ -90,6 +90,7 @@ By attending logAMS, you will have the opportunity to:
 | 11:00 - 11:10 | Break | |
 | 11:10 - 12:30 | Lightning talks 3 | |
 | 12:30 - 14:00 | Lunch | |
+| 14:00 - | LoG Conference streaming | |
 <!--
 
 
@@ -135,11 +136,11 @@ By attending logAMS, you will have the opportunity to:
 -->
 
 ## Registration
-Are you interested in attending LoGox? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
+Are you interested in attending LoGoX? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
 
 ## Contact
 
-For any inquiries or questions about loGox, please feel free to get in touch with our organising team.
+For any inquiries or questions about LoGoX, please feel free to get in touch with our organising team.
 
 
 ## Organisation ##
