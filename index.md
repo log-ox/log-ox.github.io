@@ -5,7 +5,7 @@ LoG-OX 2024
 
 
 <p align="center">
-    <img src="./img/logAMS.jpg" alt="logAMS banner" width="800px"/>
+    <img src="./img/logOx.jpg" alt="logAMS banner" width="800px"/>
 </p>
 
 <p align="center">
