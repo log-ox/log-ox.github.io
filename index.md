@@ -26,6 +26,7 @@ Welcome to the website for <strong>logAMS</strong>, the Oxford meetup for the gl
 <p align="center">
   <a href="#about">About</a> •
   <a href="#dates">Dates</a> •
+  <a href="#schedule">Tentative Schedule</a> •
   <a href="#registration">Registration</a> •
   <a href="#contact">Contact</a> •
   <a href="#organisation">Organisation</a>
