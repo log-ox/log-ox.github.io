@@ -12,15 +12,14 @@ LoG-OX 2024
 <a href="https://logconference.org">
     <img src="https://img.shields.io/badge/👩‍💻_LOG_Conference_-Meetup-blue">
 </a>
-<a href="https://maps.app.goo.gl/8tT9rKREhpkXakK77">
-    <img src="https://img.shields.io/badge/📍_Location-Amsterdam_NL-blue">
+    <img src="https://img.shields.io/badge/📍_Location-Oxford_UK-blue">
 </a>
-<img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
+<img src="https://img.shields.io/badge/🗓%EF%B8%8F_Date_-November_25+26-blue">
 </p>
 
 
 <p align="center">
-Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 29 + 30, 2023.
+Welcome to the website for <strong>logAMS</strong>, the Oxford meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by University of Oxford on November 25 + 26, 2024.
 </p>
 
 
@@ -61,12 +60,35 @@ By attending logAMS, you will have the opportunity to:
 * November 18, 2023. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
 * November 25 and 26. Conference.
 
-## Schedule
+## Tentative Schedule
 
 ### 25 November
 
-## TBD
+##
 
+|`Time` |      `Event `     |  `Details` |
+|:----------:|:-------------:|:------|
+| <span style="white-space: nowrap;">09:30 - 10:00</span> | Welcome coffee | |
+| 10:00 - 11:00 | Keynote 1 | |  |
+| 11:00 - 11:10 | Break | |
+| 11:10 - 12:30 | Lightning talks 1 | |
+| 12:30 - 14:00 | Lunch | |
+| 14:00 - 15:30 | Lightning talks 2 | |
+| 16:00 - 18:00 | Tutorial | |
+| 18:00 - |    Drinks, Dinner & Social at a Pub | Not included   |
+
+
+### 26 November
+
+##
+
+|`Time` |      `Event `     |  `Details` |
+|:----------:|:-------------:|:------|
+| <span style="white-space: nowrap;">09:30 - 10:00</span> | Welcome coffee | |
+| 10:00 - 11:00 | Keynote 2 |                 |  |
+| 11:00 - 11:10 | Break | |
+| 11:10 - 12:30 | Lightning talks 3 | |
+| 12:30 - 14:00 | Lunch | |
 <!--
 
 
@@ -91,10 +113,6 @@ By attending logAMS, you will have the opportunity to:
 -->
 
 
-### 26 November
-
-## TBD
-
 <!--
 
 
@@ -116,11 +134,11 @@ By attending logAMS, you will have the opportunity to:
 -->
 
 ## Registration
-Are you interested in attending LoGOX? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
+Are you interested in attending LoGox? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
 
 ## Contact
 
-For any inquiries or questions about logAMS, please feel free to get in touch with our organising team.
+For any inquiries or questions about loGox, please feel free to get in touch with our organising team.
 
 
 ## Organisation ##
