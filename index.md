@@ -136,7 +136,7 @@ By attending logAMS, you will have the opportunity to:
 -->
 
 ## Registration
-Are you interested in attending LoGoX? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
+Are you interested in attending LoGoX? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
 
 ## Contact
 
