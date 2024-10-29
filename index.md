@@ -35,7 +35,7 @@ Welcome to the website for <strong>LoGoX</strong>, the Oxford meetup for the <a 
 
 ## About
 
-The logAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry. Please watch this space for updates!
+The LoG-Ox conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry. Please watch this space for updates!
 
 
 ## Details
