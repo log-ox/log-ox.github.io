@@ -59,13 +59,13 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 |:----------:|:-------------:|:------|
 | <span style="white-space: nowrap;">09:30 - 10:00</span> | Welcome coffee | |
 | 10:00 - 11:00 | Keynote 1 | |  |
-| 11:00 - 11:10 | Break | |
-| 11:10 - 12:30 | Lightning talks 1 | |
-| 12:30 - 14:00 | Lunch | |
+| 11:00 - 11:30 | Break | |
+| 11:30- 13:00 | Lightning talks 1 | |
+| 13:00 - 14:00 | Lunch | |
 | 14:00 - 15:00 | Keynote 2 | |
 | 15:00 - 16:30 | Lightning talks 2 | |
 | 16:30 - 18:00 | Poster Session | |
-| 18:00 - | Drinks, Dinner & Social at a Pub | Not included   |
+| 18:00 - ?| Drinks, Dinner & Social at a Pub | Not included   |
 
 
 ### 26 November onwards
@@ -84,7 +84,8 @@ For any inquiries or questions about LoG-Ox, please feel free to get in touch wi
 
 ## Organisation ##
 * Jacob Bamberger 
-* Alvaro Arroyo 
+* Alvaro Arroyo
+* Teo Reu
 * Xiaowen Dong
 * Michael Bronstein
 
