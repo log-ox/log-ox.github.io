@@ -13,7 +13,6 @@ LoG-Ox 2024
     <img src="https://img.shields.io/badge/👩‍💻_LOG_Conference_-Meetup-blue">
 </a>
     <img src="https://img.shields.io/badge/📍_Location-Oxford_UK-blue">
-</a>
 <img src="https://img.shields.io/badge/🗓%EF%B8%8F_Date_-November_25+26-blue">
 </p>
 
