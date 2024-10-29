@@ -136,16 +136,16 @@ By attending logAMS, you will have the opportunity to:
 -->
 
 ## Registration
-Are you interested in attending LoGoX? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
+Are you interested in attending LoG-Ox? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
 
 ## Contact
 
-For any inquiries or questions about LoGoX, please feel free to get in touch with our organising team.
+For any inquiries or questions about LoG-Ox, please feel free to get in touch with our organising team here. 
 
 
 ## Organisation ##
 * Jacob Bamberger 
-* Alvaro Arroyo
+* Alvaro Arroyo 
 * Xiaowen Dong
 * Michael Bronstein
 
