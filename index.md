@@ -19,7 +19,7 @@ LoG-OX 2024
 
 
 <p align="center">
-Welcome to the website for <strong>LoGoX</strong>, the Oxford meetup for the <a href="https://logconference.org">LoG Conference</a>. Hosted by University of Oxford on Nov 25 + 26, 2024.
+Welcome to the website for <strong>LoG-Ox</strong>, the Oxford meetup for the <a href="https://logconference.org">LoG Conference</a>. Hosted by University of Oxford on Nov 25 + 26, 2024.
 </p>
 
 
