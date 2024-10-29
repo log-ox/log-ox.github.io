@@ -140,7 +140,7 @@ Are you interested in attending LoG-Ox? Please register with this [form](https:/
 
 ## Contact
 
-For any inquiries or questions about LoG-Ox, please feel free to get in touch with our organising team here. 
+For any inquiries or questions about LoG-Ox, please feel free to get in touch with our organizing team <a href="mailto: log.oxford.2024@gmail.com">here</a>.
 
 
 ## Organisation ##
