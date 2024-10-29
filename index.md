@@ -110,19 +110,4 @@ For any inquiries or questions about LoG-Ox, please feel free to get in touch wi
 
 -->
 
-We are part of a global network of local meetups
-
-- 🇬🇧 Oxford, UK
-- 🇺🇸 Stanford, USA.
-- 🇩🇪 Munich, Germany.
-- 🇳🇱 Amsterdam, Netherlands.
-- 🇨🇳 Shanghai, China.
-- 🇨🇭 Lausanne, Switzerland.
-- 🇫🇷 Paris, France.
-- 🇳🇴 Tromso, Norway.
-- 🇺🇸 Michigan, USA.
-- 🇪🇸 Madrid, Spain.
-- 🇨🇳 Beijing, China.
-- 🇮🇹 Trento, Italy.
-- 🇺🇸 New York, US.
-- 🇬🇧 London, UK.
+We are part of a global network of local meetups, a list of other meetups can be found [here](https://logconference.org/).
