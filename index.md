@@ -42,7 +42,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 
 * Meet-up on November 25 and 26, 2024.
 * The event is **free** 🤑 to attend.
-* Hosted by the University of Oxford.
+* Hosted by the Lady Margaret Hall, University of Oxford.
 
 <!--
 
