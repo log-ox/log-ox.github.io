@@ -1,6 +1,6 @@
 
 <h1 align="center">
-LoG-OX 2024
+LoG-Ox 2024
 </h1>
 
 
