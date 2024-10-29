@@ -58,7 +58,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
 | <span style="white-space: nowrap;">09:30 - 10:00</span> | Welcome coffee | |
-| 10:00 - 11:00 | Keynote 1 | |  |
+| 10:00 - 11:00 | Keynote 1 | |  
 | 11:00 - 11:30 | Break | |
 | 11:30- 13:00 | Lightning talks 1 | |
 | 13:00 - 14:00 | Lunch | |
