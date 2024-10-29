@@ -70,7 +70,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 
 ### 26 November onwards
 
-We will broadcast the conference throughout the week in a designated room. Details to follow...
+We will broadcast the conference throughout the week in a designated room. More coming soon.
 
 
 
