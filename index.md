@@ -46,7 +46,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 
 ## Dates
 
-* October 29, 2023. Registration opens.
+* October 29, 2023. Registration opens. First come first served, up to capacity.
 * November 18, 2023. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
 * November 25. Conference.
 
@@ -75,7 +75,7 @@ We will broadcast the conference throughout the week in a designated room. More 
 
 
 ## Registration
-Are you interested in attending LoG-Ox? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
+Are you interested in attending LoG-Ox? Please register with this form (due to large demand we have deactivated the form, please check later or email us if you want to sign up!).
 
 ## Contact
 
