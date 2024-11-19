@@ -75,7 +75,7 @@ We will broadcast the conference throughout the week in a designated room. More 
 
 
 ## Registration
-Are you interested in attending LoG-Ox? Please register with this form (due to large demand we have deactivated the form, please check later or email us if you want to sign up!).
+Are you interested in attending LoG-Ox? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
 
 ## Contact
 
