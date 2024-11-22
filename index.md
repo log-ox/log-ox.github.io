@@ -57,15 +57,16 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| <span style="white-space: nowrap;">09:30 - 10:00</span> | Welcome coffee | |
-| 10:00 - 11:00 | Keynote 1 | |  
-| 11:00 - 11:30 | Break | |
-| 11:30- 13:00 | Lightning talks 1 | |
-| 13:00 - 14:00 | Lunch | |
-| 14:00 - 15:00 | Keynote 2 | |
-| 15:00 - 16:30 | Lightning talks 2 | |
-| 16:30 - 18:00 | Poster Session | |
-| 18:00 - ?| Drinks, Dinner & Social at a Pub | Not included   |
+| <span style="white-space: nowrap;">09:30 - 9:40</span> | Welcome | |
+| 9:40 - 11:00 | Lighning talks 1 | |  
+| 11:00 - 11:30 | Coffee Break 1 | |
+| 11:30- 12:30 | Keynote 1 | |
+| 12:30 - 14:00 | Lunch | |
+| 14:00 - 15:00 | Keynote 2 |  |
+| 15:00 - 15:30 | Coffee Break 2 | |
+| 15:30 - 17:00 | Lightning talks 2 | |
+| 17:00 - 18:00 | Poster Presentations | |
+18:30 - ?| Social at the Royal Oak | Not included   |
 
 
 ### 26 November onwards
@@ -76,6 +77,9 @@ We will broadcast the conference throughout the week in a designated room. More 
 
 ## Registration
 Are you interested in attending LoG-Ox? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSfrH97fSxo2tpIjR_8VG-XexxB9clVUfqcAZle38dSgHRfclw/viewform?usp=sf_link).
+
+
+
 
 ## Contact
 
