@@ -55,18 +55,30 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 ### 25 November
 
 
-|`Time` |      `Event `     |  `Details` |
-|:----------:|:-------------:|:------|
-| <span style="white-space: nowrap;">09:30 - 9:40</span> | Welcome | |
-| 9:40 - 11:00 | Lighning talks 1 | Federico Barbero, Huidong Liang, Emily Jin, James Rowbottom|  
-| 11:00 - 11:30 | Coffee Break 1 | |
-| 11:30- 12:30 | Keynote 1 | Anthea Monod: Algebraic geometry learns machines and machines learn algebraic geometry|
-| 12:30 - 14:00 | Lunch | |
-| 14:00 - 15:00 | Keynote 2 | Renaud Lambiotte |
-| 15:00 - 15:30 | Coffee Break 2 | |
-| 15:30 - 17:00 | Lightning talks 2 | Oleksandr Pryymak, Alexander Davies, Victor-Alexandru Darvariu, Xingyue Huang|
-| 17:00 - 18:00 | Poster Presentations | |
-18:30 - ?| Social at the Royal Oak | Not included   |
+| `Time`      | `Event`             | `Details`                                                                 |
+|:------------:|:------------------:|:-------------------------------------------------------------------------|
+| 09:30 - 09:40| Welcome            |                                                                           |
+| 09:40 - 11:00| Lightning talks 1  | Victor-Alexandru Darvariu: Graph Reinforcement Learning for Combinatorial Optimization <br> Huidong Liang: Bayesian Optimization on Node Subsets <br> Emily Jin: Homomorphism Counts Rule Everything Around Me <br> James Rowbottom: Graph Neural Diffusion for Accelerated Adaptive Mesh Refinement in Finite Element Methods |
+| 11:00 - 11:30| Coffee Break 1     |                                                                           |
+| 11:30 - 12:30| Keynote 1          | Anthea Monod: Algebraic geometry learns machines and machines learn algebraic geometry |
+| 12:30 - 14:00| Lunch              |                                                                           |
+| 14:00 - 15:00| Keynote 2          | Renaud Lambiotte                                                        |
+| 15:00 - 15:30| Coffee Break 2     |                                                                           |
+| 15:30 - 17:00| Lightning talks 2  | Oleksandr Pryymak: Applying GNNs at scale at Meta Applied AI <br> Federico Barbero: Title TBC  <br> Alexander Davies: Towards Generalised Pre-Training of Graph Models <br> Xingyue Huang: Link prediction with relational hypergraphs |
+| 17:00 - 18:00| Poster Presentations|                                                                          |
+| 18:30 - ?    | Social at the Royal Oak | Not included                                                          |
+
+
+#### Keynotes
+##### Keynote 1:
+**Speaker:** Anthea Monod <br> 
+**Title:** Algebraic geometry learns machines and machines learn algebraic geometry <br> 
+**Abstract:**   In this talk I will overview some existing results and ongoing work at the intersection of algebraic geometry and machine learning.  I will present how a piecewise linear and combinatorial variant of algebraic geometry—-known as tropical geometry—-has been shown to be relevant in defining neural networks and talk about some recent and current work that our group is doing that adapts tropical geometry theory in numerical studies towards a better understanding of neural network behavior during training.  While algebraic geometry holds much potential for better understanding machine learning, it turns out that machine learning is also a powerful tool that can help develop algebraic geometry theory.  I will also overview some recent and ongoing work by researchers in my group where we use neural networks for theorem discovery in algebraic geometry.
+
+##### Keynote 2:
+**Speaker:** Renaud Lambiotte <br> 
+**Title:** TBC <br> 
+
 
 
 ### 26 November onwards
