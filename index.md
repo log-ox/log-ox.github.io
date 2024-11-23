@@ -58,13 +58,13 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
 | <span style="white-space: nowrap;">09:30 - 9:40</span> | Welcome | |
-| 9:40 - 11:00 | Lighning talks 1 | |  
+| 9:40 - 11:00 | Lighning talks 1 | Federico Barbero, Huidong Liang, Emily Jin, James Rowbottom|  
 | 11:00 - 11:30 | Coffee Break 1 | |
-| 11:30- 12:30 | Keynote 1 | |
+| 11:30- 12:30 | Keynote 1 | Anthea Monod: Algebraic geometry learns machines and machines learn algebraic geometry|
 | 12:30 - 14:00 | Lunch | |
-| 14:00 - 15:00 | Keynote 2 |  |
+| 14:00 - 15:00 | Keynote 2 | Renaud Lambiotte |
 | 15:00 - 15:30 | Coffee Break 2 | |
-| 15:30 - 17:00 | Lightning talks 2 | |
+| 15:30 - 17:00 | Lightning talks 2 | Oleksandr Pryymak, Alexander Davies, Victor-Alexandru Darvariu, Xingyue Huang|
 | 17:00 - 18:00 | Poster Presentations | |
 18:30 - ?| Social at the Royal Oak | Not included   |
 
