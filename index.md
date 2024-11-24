@@ -64,7 +64,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 | 12:30 - 14:00| Lunch              |                                                                           |
 | 14:00 - 15:00| Keynote 2          | Anthea Monod: Algebraic geometry learns machines and machines learn algebraic geometry      |
 | 15:00 - 15:30| Coffee Break 2     |                                                                           |
-| 15:30 - 17:00| Lightning talks 2  | Oleksandr Pryymak: Applying GNNs at scale at Meta Applied AI <br> Federico Barbero: Title TBC  <br> Alexander Davies: Towards Generalised Pre-Training of Graph Models <br> Xingyue Huang: Link prediction with relational hypergraphs |
+| 15:30 - 17:00| Lightning talks 2  | Oleksandr Pryymak: Applying GNNs at scale at Meta Applied AI <br> Federico Barbero: Limitations of generalization with Transformers  <br> Alexander Davies: Towards Generalised Pre-Training of Graph Models <br> Xingyue Huang: Link prediction with relational hypergraphs |
 | 17:00 - 18:00| Poster Presentations|                                                                          |
 | 18:30 - ?    | Social at the Royal Oak | Not included                                                          |
 
