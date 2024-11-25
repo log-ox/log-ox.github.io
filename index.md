@@ -86,7 +86,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 
 We will broadcast the conference throughout the week in a designated room. More coming soon.
 
-For the latest info and last minute updates, please join log-ox whatsapp group: [https://chat.whatsapp.com/Fyzh09qVMK35pCqM3kVD3p](https://chat.whatsapp.com/Fyzh09qVMK35pCqM3kVD3p)
+For the latest info (and last minute updates), please join the log-ox whatsapp group: [https://chat.whatsapp.com/Fyzh09qVMK35pCqM3kVD3p](https://chat.whatsapp.com/Fyzh09qVMK35pCqM3kVD3p)
 
 On Tuesday (4pm-6pm)we will broadcast the Opening remarks, Keynote, and Oral Presentation from the CS department, Wolsfon Building room 051.
 
