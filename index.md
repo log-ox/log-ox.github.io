@@ -90,7 +90,7 @@ For the latest info (and last minute updates), please join the log-ox whatsapp g
 
 On Tuesday (4pm-6pm)we will broadcast the Opening remarks, Keynote, and Oral Presentation from the CS department, Wolsfon Building room 051.
 
-On Wednesday (2pm-5:00pm), we will have the physical tutorial on generative modelin. 
+On Wednesday (2pm-5:00pm), we will host the tutorial on generative modeling in LTB of Wolfson Building. 
 
 
 
