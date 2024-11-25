@@ -60,7 +60,7 @@ The LoG-Ox conference is a satellite event of the global LoG Conference, featuri
 | 09:30 - 09:40| Welcome            |                                                                           |
 | 09:40 - 11:00| Lightning talks 1  | Victor-Alexandru Darvariu: Graph Reinforcement Learning for Combinatorial Optimization <br> Huidong Liang: Bayesian Optimization on Node Subsets <br> Emily Jin: Homomorphism Counts Rule Everything Around Me <br> James Rowbottom: Graph Neural Diffusion for Accelerated Adaptive Mesh Refinement in Finite Element Methods |
 | 11:00 - 11:30| Coffee Break 1     |                                                                           |
-| 11:30 - 12:30| Keynote 1          | Renaud Lambiotte: Title TBC   |
+| 11:30 - 12:30| Keynote 1          | Renaud Lambiotte: Consensus and Random Walks on Higher-Order Networks   |
 | 12:30 - 14:00| Lunch              |                                                                           |
 | 14:00 - 15:00| Keynote 2          | Anthea Monod: Algebraic geometry learns machines and machines learn algebraic geometry      |
 | 15:00 - 15:30| Coffee Break 2     |                                                                           |
